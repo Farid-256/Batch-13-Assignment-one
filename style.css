@@ -167,6 +167,10 @@
     display: flex; align-items: center; justify-content: space-between; padding: 50px 0;
 }
 
+.social-div{
+    display: flex; align-items: center; gap: 15px; margin: 10px 0;
+}
+
 .footer-div h5{
     color: white;
 }
