@@ -84,7 +84,7 @@
 
 .card-style {
     padding: 24px; text-align: center; border: 1px solid rgb(233, 226, 226); border-radius: 10px;
-    width: 250px;
+    width: 250px; background-color: rgb(250, 247, 247);
 }
 
 .icon{
